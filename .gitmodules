@@ -1,0 +1,9 @@
+[submodule "BE_hand_gesture"]
+	path = BE_hand_gesture
+	url = https://github.com/Datghb/BE_hand_gesture.git
+[submodule "FE_hand_gesture"]
+	path = FE_hand_gesture
+	url = https://github.com/Datghb/FE_hand_gesture.git
+[submodule "model_hand_gesture"]
+	path = model_hand_gesture
+	url = https://github.com/Datghb/model_hand_gesture.git
